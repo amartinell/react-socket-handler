@@ -1,0 +1,4 @@
+html, body, #root {
+    /* Apply full height to html, body, and root elements */
+    @apply h-full;
+}
